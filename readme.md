@@ -19,12 +19,13 @@ Make a unique observation about cryptocurrencies with statistical significance o
 
 
 <h2>To Prove</h2>
+
 * What Proves a Store of Value?
         * A store of value is an asset that **maintains its value without depreciating**. **Gold** and other metals are good stores of value as their *shelf lives are essentially perpetual*, whereas a perishable item (milk, for example[or even currency]) is a poor store of value because of its propensity to decay. Interest-bearing assets, such as **U.S. Treasury bonds (T-bonds)**, are very good stores of value because they generate interest income and their **principal balances are backed by legal contracts.** ([Investopedia](https://www.investopedia.com/terms/s/storeofvalue.asp))
     * Gold?
         * cons
             * constant supply growth
-        * 
+        * pros
     * U.S. Treasury Bills
         * Generate Passive Income
         * Backed by legal contracts and the faith of the US Government (trustworthy)
@@ -38,7 +39,6 @@ Make a unique observation about cryptocurrencies with statistical significance o
 * we should build some robust returns analysis tools and investigate our crypto datasets.
 
 * My first idea is to try to find some correlation in the log returns from bitcoin to that of gold in the 1970s.
-<br><br>
 
 
 <h2> Schedule </h2>
