@@ -5,6 +5,11 @@
 
 Make a unique observation about cryptocurrencies with statistical significance or statistical **in**significance.
 
+<h2>Current Progress</h2>
+Currently I have a working Monte Carlo simulator working in the repo under the name "Monte_Carlo.py". It is currently set to give an output of 4 years of simulated Bitcoin prices as seen in this graph below.
+![Monte Carlo Simulation BTC-USD]('assets/BTC-USD Monte Carlo Simulation.png')
+
+
 
 <h2>Possible Methods</h2>
 
@@ -33,7 +38,6 @@ Make a unique observation about cryptocurrencies with statistical significance o
 * What proves a Currency Hedge?
     * A forex hedge is a transaction implemented to **protect an existing or anticipated position from an unwanted move in exchange rates**. Forex hedges are used by a broad range of market participants, including investors, traders and businesses. By using a forex hedge properly, an individual who is long a foreign currency pair or expecting to be in the future via a transaction can be protected from downside risk. Alternatively, a trader or investor who is short a foreign currency pair can protect against upside risk using a forex hedge. ([Investopedia](https://www.investopedia.com/terms/forex/f/forex-hedge-and-currency-hedging-strategy.asp))
     * Protecting against an existing or anticipated position from an unwanted more in exchange rates
-
 <h2>Current Ideas</h2>
 
 * we should build some robust returns analysis tools and investigate our crypto datasets.
@@ -58,7 +62,17 @@ Make a unique observation about cryptocurrencies with statistical significance o
 * Sunday - 17th
     * Final Version FINISHED
 
-<h2>Sources</h2>
+<h2>Methods</h2>
+1. Create tools for data analysis
+    a. create monte carlo simulator so we can feed in a historical return list and receive 
+
+use of monte carlo:
+when we have the whole VAR adjusted portfolio weightings then we will do a monte carlo of *those* portfolios
+
+
+
+---
+<h3>Sources</h3>
 
 Inspiration from [Tudor Investor Letter](https://www.docdroid.net/H1fuimX/the-great-monetary-inflation-pdf#page=3)
 
