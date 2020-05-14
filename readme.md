@@ -1,5 +1,7 @@
 <h1>Crypto Currency as an Effective Hedge Agasint Currency Risk</h1>
 
+**NOTE** This is still a working copy and should not be used to extract any reliable information from the content within
+
 <h2>Project Goals</h2>
 
 
