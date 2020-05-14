@@ -83,7 +83,7 @@ when we have the whole VAR adjusted portfolio weightings then we will do a monte
 
 
 ---
-<h3>Sources and working bibliography</h3>
+<h2>Sources and working bibliography</h2>
 
 Inspiration from [Tudor Investor Letter](https://www.docdroid.net/H1fuimX/the-great-monetary-inflation-pdf#page=3)
 
