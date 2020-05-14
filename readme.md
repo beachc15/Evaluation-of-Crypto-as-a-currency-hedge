@@ -7,7 +7,16 @@ Make a unique observation about cryptocurrencies with statistical significance o
 
 <h2>Current Progress</h2>
 Currently I have a working Monte Carlo simulator working in the repo under the name "Monte_Carlo.py". It is currently set to give an output of 4 years of simulated Bitcoin prices as seen in this graph below.
-![Monte Carlo Simulation BTC-USD]('https://github.com/beachc15/Evaluation-of-Crypto-as-a-currency-hedge/blob/master/assets/BTC-USD%20Monte%20Carlo%20Simulation.png?raw=true')
+![Monte Carlo Simulation BTC-USD](https://github.com/beachc15/Evaluation-of-Crypto-as-a-currency-hedge/blob/master/assets/BTC-USD%20Monte%20Carlo%20Simulation.png?raw=true)
+
+<br>
+
+I have also simulated my S&P 100 portfolio as seen by this scaled graph included below.
+
+![Constructed S&P 100 returns](https://github.com/beachc15/Evaluation-of-Crypto-as-a-currency-hedge/blob/master/assets/S&P%20100%20returns%20as%20percent.png?raw=true)
+
+
+This portfolio will be used to calculate the value at risk in both distressed periods as well as standard periods with and without both gold and bitcoin included at different percentages in the portfolio.
 
 
 
