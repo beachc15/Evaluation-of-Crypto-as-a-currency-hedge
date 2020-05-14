@@ -81,8 +81,31 @@ when we have the whole VAR adjusted portfolio weightings then we will do a monte
 
 
 ---
-<h3>Sources</h3>
+<h3>Sources and working bibliography</h3>
 
 Inspiration from [Tudor Investor Letter](https://www.docdroid.net/H1fuimX/the-great-monetary-inflation-pdf#page=3)
 
 Datasets come from [Yahoo Finance](https://finance.yahoo.com/)
+
+Smirnova, Elena. **Use of Gold in Financial Risk Hedge** (https://www.jstor.org/stable/44657338?seq=1)
+
+Harvey, Campbell; Erb, Claude. **The Golden Dilemma** (https://www.jstor.org/stable/23469534)
+
+Manganello, S.; Engle, R. "Value at Risk Models in Finance." Working paper No.75, The European Central Bank, 2001
+
+Rogers, L., and S. Satchell. "Estimating Variance from High, Low and
+Closing Prices." Annals of Applied Volatility 1.4(1991): 504-512.
+
+Hammoudeh, S., F. Malik, and M. McAleer. Metals." Quarterly Review of Economics
+
+Fama, E., and K. French. "Common Risk Factors in the Returns on and Bonds." Journal of Financial Economics 33.1(1993): 3-58
+
+Ciner, C., C. Gurdgiev, and B. Lucey. "Hedges and Safe Havens: An
+Examination of Stocks, Bonds, Gold, Oil and Exchange Rates." International
+Review of Financial Analysis 29.C(2013): 202-211
+
+Conlon, T., B. Lucey, and G. Uddin. "Is Gold a Hedge Against Inflation?
+A Wavelet Time-Frequency Perspective." Working paper, Trinity College,
+Dublin, Ireland, 2015.
+
+Chung, S. "The Estimation of a Firm's Hedging Effects: Marginal Value at Risk (M-VaR) Approach." *Derivatives Use, Trading * Regulation* 9.2(2003): 117-132.
